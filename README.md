@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Andriele Ramos👋
 
 
-- 🌱 Estudando Análise e desenvolvimento de sistemas
+- 🌱 Estudando Análise e Desenvolvimento de sistemas
 - 📫 Contata-me no email: andriellerds22@gmail.com
 - 😉 Pronome: ela/dela
 
